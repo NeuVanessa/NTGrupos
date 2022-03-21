@@ -1,4 +1,4 @@
-# heyGrupos
+# NTGrupos
 App de chat
 
 <div align="center"> 
